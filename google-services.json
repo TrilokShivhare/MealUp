@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126084371721",
+    "project_id": "mealup-acd60",
+    "storage_bucket": "mealup-acd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126084371721:android:39dc34e842ed9141a0afd8",
+        "android_client_info": {
+          "package_name": "com.example.mealup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126084371721-hmh4t9aq8i3ngd9tbcehccj1itf8bd63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xZF7ciPaHUiXp4DpBL69eDjjYNDxtiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126084371721-hmh4t9aq8i3ngd9tbcehccj1itf8bd63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
